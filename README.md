@@ -1,2 +1,2 @@
-# subject101
-sample repository compilation for the subject
+# Compilation of Activities
+Compilation of Activities in CSST104-3A
